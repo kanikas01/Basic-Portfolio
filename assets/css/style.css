@@ -1,7 +1,27 @@
+body {
+    display: flex;
+}
+
 .container {
     margin: 0 auto;
     max-width: 960px;
     width: 100%;
+}
+
+h1, h2, h3 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h1 {
+    width: 250px;
+    height: 90px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+
+.header-right {
+    float: right;
 }
 
 .footer {
