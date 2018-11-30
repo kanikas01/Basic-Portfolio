@@ -132,3 +132,22 @@ button {
 .portfolio-row {
     display: flex;
 }
+
+.portfolio-item {
+    position: relative;
+    text-align: center;
+    margin-right: 40px;
+}
+
+.image-text-overlay {
+    width: 275px;
+    height: 60px;
+    color: #ffffff;
+    font-size: 18pt;
+    background-color: #4aaaa5;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-top: 16px;
+}
