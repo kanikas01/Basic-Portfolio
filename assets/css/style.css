@@ -31,6 +31,22 @@ h1 {
     padding-top: 25px;
 }
 
+a {
+    text-decoration: unset;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+input {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+.header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
+
 .header-left {
     width: 50%;
 }
