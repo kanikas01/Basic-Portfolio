@@ -20,21 +20,20 @@ body {
     background-image: url("../images/gravel.png");
 }
 
-h1, h2, h3 {
+h1, h2 {
     font-family: 'Georgia', Times, 'Times New Roman', serif; 
     color: #4aaaa5;
     margin: unset;
 }
 
 h1 {
-    width: 250px;
+    width: 285px;
     height: 90px;
     color: #ffffff;
     background-color: #4aaaa5;
     text-align: center;
     padding-top: 25px;
-    margin-top: 0;
-}
+    margin-top: 0;}
 
 a {
     text-decoration: unset;
