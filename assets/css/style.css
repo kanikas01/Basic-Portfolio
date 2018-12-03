@@ -50,6 +50,10 @@ hr {
     border: 1.5px solid;
 }
 
+.about-me > hr {
+    margin-top: 17px;
+}
+
 input, textarea {
     width: 900px;
     margin: auto;
@@ -125,9 +129,12 @@ button {
     max-width: 960px;
     height: 500px;
     padding-left: 30px;
-    padding-top: 30px;
+    padding-top: 25px;
     border: 1px solid #cccccc;
     line-height: 2em;
+}
+#about-me {
+    margin-top: 3px;
 }
 
 #self-pic {
