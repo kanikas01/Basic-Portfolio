@@ -184,3 +184,9 @@ button {
     transform: translate(-50%, -50%);
     padding-top: 16px;
 }
+
+span {
+    color: #cccccc;
+    font-size: 10pt;
+    font-weight: 100;
+}
