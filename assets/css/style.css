@@ -128,9 +128,10 @@ button {
     margin: auto;
     background: #ffffff;
     max-width: 960px;
-    height: 500px;
+    height: auto;
     padding-left: 30px;
     padding-top: 25px;
+    padding-bottom: 10px;
     border: 1px solid #cccccc;
     line-height: 2em;
 }
