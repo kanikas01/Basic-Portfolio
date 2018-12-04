@@ -160,8 +160,9 @@ button {
     margin: auto;
     padding-left: 30px;
     padding-top: 30px;
+    padding-bottom: 15px;
     width: 960px;
-    height: 840px;
+    height: auto;
     border: 1px solid #cccccc;
 }
 
