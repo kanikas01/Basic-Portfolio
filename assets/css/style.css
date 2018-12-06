@@ -16,8 +16,8 @@ body {
 .middle {
     border-top: 2px solid #cccccc;
     padding-top: 17px;
-    padding-bottom: 42px;
-    height: 1000px;
+    padding-bottom: 112px;
+    height: auto;
     background-image: url("../images/gravel.png");
 }
 
